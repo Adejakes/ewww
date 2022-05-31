@@ -1,0 +1,12 @@
+body {
+    font-size: x-large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding-left: 80vh;
+    padding-top: 30vh;
+    background: url(./pexels-sean-whang-804269.jpg);
+    
+}
+
+.id {
+    box-shadow: inset;
+}
